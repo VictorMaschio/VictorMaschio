@@ -1,5 +1,5 @@
 # About Me
-🔭 I'm currently working on 👯 software modeling projects<br><br>👯 I'm looking to collaborate on 🤝 AI and cybersecurity research<br><br>🤝 I'm looking for help with 🌱 implementing machine learning algorithms<br><br>💬 Ask me about ⚡ my experiences with software development tools<br><br>⚡ Fun fact: I'm passionate about creating efficient algorithms for complex systems
+🔭 I'm currently working on software modeling projects<br><br>👯 I'm looking to collaborate on AI and cybersecurity research<br><br>🤝 I'm looking for help with implementing machine learning algorithms<br><br>💬 Ask me about my experiences with software development tools<br><br>⚡ Fun fact: I'm passionate about creating efficient algorithms for complex systems
 
 
 ## 🌐 Socials:
